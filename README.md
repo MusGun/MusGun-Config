@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me Discord: https://discord.gg/WsN5HKuWFx
+- 📫 How to reach me Website: https://azura-5.jimdosite.com/
 
 <!---
 kawaiiislyr/kawaiiislyr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
