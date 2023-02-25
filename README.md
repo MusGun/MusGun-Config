@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kawaiiislyr
+- 👋 Hi, I’m @Azura.Skuy
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord
